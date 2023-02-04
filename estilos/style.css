@@ -19,8 +19,3 @@ nav {
 nav > a {
  margin-right: 10px;   
 }
-
-header {
-    background-color: var(--cor-principal);
-    color: black;
-}
